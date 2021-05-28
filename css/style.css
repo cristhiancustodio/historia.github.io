@@ -92,3 +92,16 @@ footer{
     color: #fff;
     text-decoration: none;
 }
+#dato{
+    margin-top: 20px;
+    border: 1px solid #8A3ADA;
+    border-radius: 20px;
+    align-items: center;
+    background-color: #8A3ADA;
+    box-shadow: 2px 4px 10px 0 #000;
+    color: #fff;
+}
+#dato p{
+    text-align: center;
+
+}
